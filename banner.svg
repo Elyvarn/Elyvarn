@@ -442,7 +442,7 @@
 
     <text x="390" y="428" class="lbl">Grid.Twitter</text>
     <line x1="480" y1="424" x2="700" y2="424" class="dot"/>
-    <text x="870" y="428" text-anchor="end" class="val">@your_handle</text>
+    <text x="870" y="428" text-anchor="end" class="val">@Elyvarn</text>
   </g>
 
   <text x="390" y="470" class="sub" fill="#3d4d42">• More about me &amp; projects below in README ▍</text>
