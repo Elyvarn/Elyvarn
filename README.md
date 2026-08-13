@@ -4,9 +4,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elyvarn&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E0B&title_color=39FF77&icon_color=39FF77&text_color=C9D1D9" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyvarn&layout=compact&theme=dark&hide_border=true&bg_color=0A0E0B&title_color=39FF77&text_color=C9D1D9" height="165" alt="top languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elyvarn&theme=dark&hide_border=true&background=0A0E0B&ring=39FF77&fire=39FF77&currStreakLabel=39FF77" alt="streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elyvarn&theme=react-dark&bg_color=0A0E0B&color=39FF77&line=39FF77&point=D8FFE0&hide_border=true" width="95%" alt="activity graph"/>
