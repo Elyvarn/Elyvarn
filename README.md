@@ -77,7 +77,7 @@
 
 [![Email](https://img.shields.io/badge/-your--email%40example.com-0A0E0B?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/-@Elyvarn-0A0E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Elyvarn)
-[![Twitter](https://img.shields.io/badge/-@your__handle-0A0E0B?style=flat-square&logo=x&logoColor=white)](https://x.com/your_handle)
+[![Twitter](https://img.shields.io/badge/-@your__handle-0A0E0B?style=flat-square&logo=x&logoColor=white)](https://x.com/elyvarn)
 
 *⁂ more research & write-ups coming soon*
 
